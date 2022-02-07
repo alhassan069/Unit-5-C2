@@ -1,14 +1,140 @@
 {
   "games": [
     {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forkids": "true",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "id": 1
+    },
+    {
       "gamename": "Titanfall",
       "gameauthor": "Respawn",
       "gameprice": "1299",
       "gametags": "FPS",
-      "forkids": true,
+      "forkids": "true",
       "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
       "gamerating": "5",
-      "id": 1
+      "id": 2
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forkids": "true",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "id": 3
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": "true",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 4
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forkids": "true",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "id": 5
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": "true",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 6
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forkids": "true",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "id": 7
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": "true",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 8
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forkids": "true",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "id": 9
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": "true",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 10
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forkids": "true",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "id": 11
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": "true",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 12
+    },
+    {
+      "gamename": "need for speed",
+      "gameauthor": "speedgames",
+      "gameprice": "1769",
+      "gametags": "racing",
+      "id": 13
+    },
+    {
+      "gamename": "need for speed",
+      "gameauthor": "speedgames",
+      "gameprice": "1769",
+      "gametags": "racing",
+      "forkids": "true",
+      "gamedesc": "Its a racing game",
+      "id": 14
     }
   ]
 }

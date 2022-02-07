@@ -1,0 +1,16 @@
+#tablecont {
+    width: 800px;
+    margin-left: 100px;
+    float: right;
+    /* background-color: black; */
+}
+
+.tablehead {
+    margin: 10px;
+    color: blue;
+    background-color: aliceblue;
+}
+
+.gamerow {
+    margin: 5px;
+}
