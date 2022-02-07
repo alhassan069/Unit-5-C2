@@ -41,7 +41,7 @@ function Tablei() {
     } else setSortedr("asc");
   };
   const searchChange = (e) => {
-    let { name, value } = e.target;
+    let { value } = e.target;
     fetch(`https://fake-server-app88.herokuapp.com/games?q=${value}`)
       .then((d) => d.json())
       .then((d) => setData(d));
